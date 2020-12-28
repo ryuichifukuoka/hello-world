@@ -1,2 +1,2 @@
 # hello-world
-First repository
+Local para aprendizado da ferramenta e observações
